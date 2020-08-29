@@ -4,3 +4,6 @@
 
 <p>The link to the course is provided below.</p>
 <a href="https://classroom.udacity.com/courses/ud9012">Visit Kotlin Course</a>
+
+<p>The structure of this repository will follow the chapter-excersise pattern, more specifically :<p>
+  <span>|/n|/n-Chapter 1/n|/n</span>
