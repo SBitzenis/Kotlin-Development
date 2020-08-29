@@ -6,4 +6,10 @@
 <a href="https://classroom.udacity.com/courses/ud9012">Visit Kotlin Course</a>
 
 <p>The structure of this repository will follow the chapter-excersise pattern, more specifically :<p>
-  <span>|</br>|</br>-Chapter 1</br>|</br></span>
+<p>Chapter-01->
+             Exercise_01 ->
+             Exercise_02 ->
+   Chapter_02->
+             Exercise_01 ->
+             Exercise_02 ->
+  Etc...</p>
