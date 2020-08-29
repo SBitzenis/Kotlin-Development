@@ -7,9 +7,9 @@
 
 <p>The structure of this repository will follow the chapter-excersise pattern, more specifically :<p>
 <p>Chapter-01-></br>
-             Exercise_01 -></br>
-             Exercise_02 -></br>
+<span>             </span>Exercise_01 -></br>
+<span>             </span>Exercise_02 -></br>
    Chapter_02-></br>
-             Exercise_01 -></br>
-             Exercise_02 -></br>
+<span>             </span>Exercise_01 -></br>
+<span>             </span>Exercise_02 -></br>
   Etc...</p>
